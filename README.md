@@ -1,4 +1,4 @@
-##EXERCISES
+## EXERCISES
 1. Perform the following task using NLTK: Tokenize and tag some text, identify named
 entities, display a parse tree and find the ambiguity of the sentence using parse tree.
 2. Perform t-Test and Chi-Square test to check whether a given sequence of words is a
